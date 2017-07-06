@@ -9,3 +9,23 @@ add deb
 the seconde stash.
 
 add file happy.py
+
+add branch dev
+
+
+
+
+出现错误：
+
+fatal: git checkout: updating paths is incompatible with switching branches.
+Did you intend to checkout 'origin/remote-name' which can not be resolved as commit?
+
+解决办法：
+
+git remote show origin
+
+git remote update
+
+git fetch
+
+git checkout -b local-name origin/remote-name
