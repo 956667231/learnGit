@@ -2,6 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+
 Creating a new branch is quick $ simple.
 dong xuan 666 !!!
 add deb
@@ -29,3 +30,7 @@ git remote update
 git fetch
 
 git checkout -b local-name origin/remote-name
+
+
+啊啊啊
+
