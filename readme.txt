@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick $ simple.
 dong xuan 666 !!!
 add deb
+
+the seconde stash.
